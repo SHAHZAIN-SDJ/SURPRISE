@@ -25,14 +25,11 @@
 ```bash
 $ cd
 $ rm -rf SURPRISE
-$ termux-setup-storage
 $ apt update 
 $ apt upgrade
 $ apt install python
 $ pkg install git
 $ git clone https://github.com/SHAHZAIN-SDJ/SURPRISE
-
-
 ```
 #### Run script
 ```bash
